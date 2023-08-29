@@ -1,5 +1,3 @@
-# # -*- coding: utf-8 -*-
-
 # **Conversor de Bases Numéricas**
 
 ## Como usar? 🤔
@@ -9,8 +7,7 @@ conversão. Em seguida, digite o número a ser convertido na base de
 entrada escolhida. O programa validará se o número está em
 conformidade com a base escolhida e, caso contrário, exibirá uma
 mensagem de erro.
-"""
 
-"""Desenvolvido pelo aluno Paulo José de Oliveira Rolinski
-
-Github: https://github.com/oPjorr
+- Desenvolvido pelo aluno Paulo José de Oliveira Rolinski
+- Github: https://github.com/oPjorr
+- LinkedIn: https://www.linkedin.com/in/paulo-rolinski-1652971b1/
